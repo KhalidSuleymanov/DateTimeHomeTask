@@ -1,0 +1,14 @@
+C:\Users\khalidms\source\repos\DateTimeHomeTask\DateTimeHomeTask\bin\Debug\netcoreapp3.1\DateTimeHomeTask.exe
+C:\Users\khalidms\source\repos\DateTimeHomeTask\DateTimeHomeTask\bin\Debug\netcoreapp3.1\DateTimeHomeTask.deps.json
+C:\Users\khalidms\source\repos\DateTimeHomeTask\DateTimeHomeTask\bin\Debug\netcoreapp3.1\DateTimeHomeTask.runtimeconfig.json
+C:\Users\khalidms\source\repos\DateTimeHomeTask\DateTimeHomeTask\bin\Debug\netcoreapp3.1\DateTimeHomeTask.runtimeconfig.dev.json
+C:\Users\khalidms\source\repos\DateTimeHomeTask\DateTimeHomeTask\bin\Debug\netcoreapp3.1\DateTimeHomeTask.dll
+C:\Users\khalidms\source\repos\DateTimeHomeTask\DateTimeHomeTask\bin\Debug\netcoreapp3.1\DateTimeHomeTask.pdb
+C:\Users\khalidms\source\repos\DateTimeHomeTask\DateTimeHomeTask\obj\Debug\netcoreapp3.1\DateTimeHomeTask.csproj.AssemblyReference.cache
+C:\Users\khalidms\source\repos\DateTimeHomeTask\DateTimeHomeTask\obj\Debug\netcoreapp3.1\DateTimeHomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khalidms\source\repos\DateTimeHomeTask\DateTimeHomeTask\obj\Debug\netcoreapp3.1\DateTimeHomeTask.AssemblyInfoInputs.cache
+C:\Users\khalidms\source\repos\DateTimeHomeTask\DateTimeHomeTask\obj\Debug\netcoreapp3.1\DateTimeHomeTask.AssemblyInfo.cs
+C:\Users\khalidms\source\repos\DateTimeHomeTask\DateTimeHomeTask\obj\Debug\netcoreapp3.1\DateTimeHomeTask.csproj.CoreCompileInputs.cache
+C:\Users\khalidms\source\repos\DateTimeHomeTask\DateTimeHomeTask\obj\Debug\netcoreapp3.1\DateTimeHomeTask.dll
+C:\Users\khalidms\source\repos\DateTimeHomeTask\DateTimeHomeTask\obj\Debug\netcoreapp3.1\DateTimeHomeTask.pdb
+C:\Users\khalidms\source\repos\DateTimeHomeTask\DateTimeHomeTask\obj\Debug\netcoreapp3.1\DateTimeHomeTask.genruntimeconfig.cache
